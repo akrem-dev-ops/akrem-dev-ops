@@ -71,7 +71,14 @@ akrem = {
 - Designed for legitimate security testing and network reconnaissance
 
 ---
+### ⚡ [Brain Battle](https://github.com/akrem-dev-ops/brain-battle)
+> **A high-stakes trivia game vs. AI — Built with zero dependencies**
 
+- **Live Demo:** [Play Brain Battle here](https://akrem-dev-ops.github.io/brain-battle/)
+- Real-time sound synthesis using **Web Audio API** (no audio files)
+- Dynamic AI opponent with variable accuracy logic
+- Clean, high-performance UI built with pure **Vanilla JS**
+---
 ### 🐍 [smart-snake](https://github.com/akrem-dev-ops/smart-snake)
 > Classic snake game — but it plays itself using AI pathfinding
 
