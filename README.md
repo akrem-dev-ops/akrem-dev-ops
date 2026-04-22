@@ -1,6 +1,3 @@
-<div align="center">
-
-```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║        ░█████╗░██╗░░██╗██████╗░███████╗███╗░░░███╗           ║
@@ -12,7 +9,6 @@
 ║                                                               ║
 ║              Security • Automation • Development              ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
 
 ### Hi, I'm **Akrem Chikhaoui** 👋
 #### Cybersecurity Enthusiast & Python Developer — Abu Dhabi, UAE 🇹🇳🇦🇪
@@ -63,6 +59,16 @@ akrem = {
 
 ## 🛠️ Featured Projects
 
+### 🌍 [ShadowTrace](https://github.com/akrem-dev-ops/ShadowTrace)
+> Passive OSINT & Real-Time Network Traffic Visualizer
+
+- Captures **live TCP/UDP traffic** and visualizes it on an interactive world map
+- **OS Fingerprinting** via TTL & TCP Window Size analysis
+- **Geo-Location Intelligence** — Country, City, ISP detection per IP
+- Built with **Python + Scapy** backend and **Leaflet.js** cyberpunk dashboard
+
+---
+
 ### 🔴 [ELITE-NETWORK-PENETRATION-TOOL-V4](https://github.com/akrem-dev-ops/ELITE-NETWORK-PENETRATION-TOOL-V4)
 > Professional multi-threaded port scanner and vulnerability assessment tool
 
@@ -71,6 +77,7 @@ akrem = {
 - Designed for legitimate security testing and network reconnaissance
 
 ---
+
 ### ⚡ [Brain Battle](https://github.com/akrem-dev-ops/brain-battle)
 > **A high-stakes trivia game vs. AI — Built with zero dependencies**
 
@@ -78,7 +85,9 @@ akrem = {
 - Real-time sound synthesis using **Web Audio API** (no audio files)
 - Dynamic AI opponent with variable accuracy logic
 - Clean, high-performance UI built with pure **Vanilla JS**
+
 ---
+
 ### 🐍 [smart-snake](https://github.com/akrem-dev-ops/smart-snake)
 > Classic snake game — but it plays itself using AI pathfinding
 
@@ -122,10 +131,7 @@ akrem = {
 ---
 
 <div align="center">
-
-```
 [ Always learning. Always building. ]
-```
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux motto
 
