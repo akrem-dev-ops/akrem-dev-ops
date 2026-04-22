@@ -1,3 +1,4 @@
+```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║        ░█████╗░██╗░░██╗██████╗░███████╗███╗░░░███╗           ║
@@ -9,6 +10,9 @@
 ║                                                               ║
 ║              Security • Automation • Development              ║
 ╚═══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
 
 ### Hi, I'm **Akrem Chikhaoui** 👋
 #### Cybersecurity Enthusiast & Python Developer — Abu Dhabi, UAE 🇹🇳🇦🇪
@@ -131,7 +135,10 @@ akrem = {
 ---
 
 <div align="center">
+
+```
 [ Always learning. Always building. ]
+```
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux motto
 
