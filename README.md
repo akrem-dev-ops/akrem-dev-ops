@@ -32,7 +32,7 @@
 akrem = {
     "location"    : "Abu Dhabi, UAE 🇦🇪",
     "origin"      : "Tunisia 🇹🇳",
-    "focus"       : ["Cybersecurity", "Automation", "Python"],
+    "focus"       : ["Cybersecurity", "OSINT", "Automation", "Python"],
     "interests"   : ["Penetration Testing", "Bug Bounty", "AI Tools"],
     "background"  : ["IT Degree", "Self-taught Security Research"],
     "currently"   : "Building tools. Breaking things. Learning fast.",
@@ -62,6 +62,18 @@ akrem = {
 ---
 
 ## 🛠️ Featured Projects
+
+### 🕵️ [war_room](https://github.com/akrem-dev-ops/war_room)
+> Cinematic OSINT Investigation Platform — Classified Dossier Generator
+
+- Scans **480+ websites** for a target username using Sherlock's engine
+- **Email breach detection** via Holehe + Have I Been Pwned API
+- **Live Pygame radar UI** overlaid on a world map — red blips animate in real-time per discovery
+- **Deep Mode** adds Google Dorking, face search (Search4Faces, Yandex, Google Lens), and Pastebin mining
+- Auto-generates a **classified PDF dossier** at the end of every scan
+- Built with Python · aiohttp · asyncio · Pygame · fpdf2 · BeautifulSoup4 · Playwright
+
+---
 
 ### 🌍 [ShadowTrace](https://github.com/akrem-dev-ops/ShadowTrace)
 > Passive OSINT & Real-Time Network Traffic Visualizer
@@ -116,6 +128,7 @@ akrem = {
 ## 🎯 Current Focus
 
 - 🔐 Deepening knowledge in **penetration testing** and **IDOR vulnerabilities**
+- 🕵️ Building advanced **OSINT tooling** for digital footprint analysis
 - 🤖 Exploring **AI-assisted automation** and agentic systems
 - 🐞 Participating in **bug bounty** programs (HackerOne)
 - 🛠️ Building tools that blend **security + automation**
