@@ -1,158 +1,122 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        ░█████╗░██╗░░██╗██████╗░███████╗███╗░░░███╗           ║
-║        ██╔══██╗██║░██╔╝██╔══██╗██╔════╝████╗░████║           ║
-║        ███████║█████╔╝░██████╔╝█████╗░░██╔████╔██║           ║
-║        ██╔══██║██╔═██╗░██╔══██╗██╔══╝░░██║╚██╔╝██║           ║
-║        ██║░░██║██║░╚██╗██║░░██║███████╗██║░╚═╝░██║           ║
-║        ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░░░╚═╝           ║
-║                                                               ║
-║              Security • Automation • Development              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
+<!-- HEADER -->
 <div align="center">
 
-### Hi, I'm **Akrem Chikhaoui** 👋
-#### Cybersecurity Enthusiast & Python Developer — Abu Dhabi, UAE 🇹🇳🇦🇪
+```
+╔═══════════════════════════════════════════════════════════╗
+║         OPERATOR ONLINE — github.com/akrem-dev-ops        ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-*Self-taught. Curious. Builder.*
+# AKREM CHIKHAOUI
 
-[![GitHub followers](https://img.shields.io/github/followers/akrem-dev-ops?style=flat-square&color=0d1117&labelColor=161b22&logo=github)](https://github.com/akrem-dev-ops)
-[![Profile views](https://komarev.com/ghpvc/?username=akrem-dev-ops&style=flat-square&color=0d1117&labelColor=161b22)](https://github.com/akrem-dev-ops)
+**`Python Developer · Cybersecurity Engineer · Abu Dhabi, UAE`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akrem--chikhaoui-0a0d0a?style=flat-square&logo=linkedin&logoColor=00ff50&labelColor=0d120d&color=1a3d1a)](https://linkedin.com/in/akrem-chikhaoui)
+[![GitHub](https://img.shields.io/badge/GitHub-akrem--dev--ops-0a0d0a?style=flat-square&logo=github&logoColor=00ff50&labelColor=0d120d&color=1a3d1a)](https://github.com/akrem-dev-ops)
+![Location](https://img.shields.io/badge/📍-Abu_Dhabi,_UAE-0d120d?style=flat-square&color=1a3d1a)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-c8a020?style=flat-square&labelColor=0d120d)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `// ABOUT`
 
-```python
-akrem = {
-    "location"    : "Abu Dhabi, UAE 🇦🇪",
-    "origin"      : "Tunisia 🇹🇳",
-    "focus"       : ["Cybersecurity", "OSINT", "Automation", "Python"],
-    "interests"   : ["Penetration Testing", "Bug Bounty", "AI Tools"],
-    "background"  : ["IT Degree", "Self-taught Security Research"],
-    "currently"   : "Building tools. Breaking things. Learning fast.",
-    "philosophy"  : "Security is not a product — it's a mindset."
-}
-```
+Self-taught **cybersecurity engineer** and Python developer building operational-grade tools for privacy, intelligence gathering, and security auditing. I focus on writing tools that are fast, visual, and actually useful — from multi-core password recovery engines to live OSINT consoles with radar UIs.
+
+Trilingual **(EN / AR / FR)** · UAE Driving License · Background in luxury retail operations.
 
 ---
 
-## ⚔️ Skills & Tools
+## `// PRIMARY ARSENAL`
 
-**Security**
+### 🟡 [WAR ROOM](https://github.com/akrem-dev-ops/war_room)
+> *An advanced, cinematic OSINT platform*
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=FF6633)
+Transforms usernames, emails, and data vectors into an interactive cyber war room console with a **live radar UI** and automatic **PDF intelligence report generation**.
 
-**Development & Automation**
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=43B02A)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+`OSINT` `Tkinter` `PDF Generation` `Radar UI` `Python`
 
 ---
 
-## 🛠️ Featured Projects
+### 🟢 [GHOSTLAYER v1.0](https://github.com/akrem-dev-ops/GhostLayer)
+> *Cyberpunk-themed tactical proxy enforcer for Windows*
 
-### 🕵️ [war_room](https://github.com/akrem-dev-ops/war_room)
-> Cinematic OSINT Investigation Platform — Classified Dossier Generator
+Automated **Tor IP rotation**, strict **exit-node geo-locking**, and real-time throughput monitoring. Built for operators who take privacy seriously.
 
-- Scans **480+ websites** for a target username using Sherlock's engine
-- **Email breach detection** via Holehe + Have I Been Pwned API
-- **Live Pygame radar UI** overlaid on a world map — red blips animate in real-time per discovery
-- **Deep Mode** adds Google Dorking, face search (Search4Faces, Yandex, Google Lens), and Pastebin mining
-- Auto-generates a **classified PDF dossier** at the end of every scan
-- Built with Python · aiohttp · asyncio · Pygame · fpdf2 · BeautifulSoup4 · Playwright
+`Tor` `Proxy` `Windows` `Geo-Locking` `Python`
 
 ---
 
-### 🌍 [ShadowTrace](https://github.com/akrem-dev-ops/ShadowTrace)
-> Passive OSINT & Real-Time Network Traffic Visualizer
+### 🔵 [SHADOWTRACE](https://github.com/akrem-dev-ops/ShadowTrace)
+> *Real-time network sniffing & geolocation dashboard*
 
-- Captures **live TCP/UDP traffic** and visualizes it on an interactive world map
-- **OS Fingerprinting** via TTL & TCP Window Size analysis
-- **Geo-Location Intelligence** — Country, City, ISP detection per IP
-- Built with **Python + Scapy** backend and **Leaflet.js** cyberpunk dashboard
+Captures and visualizes live traffic, resolves remote targets, and maps them to geographic coordinates — instantly.
 
----
-
-### 🔴 [ELITE-NETWORK-PENETRATION-TOOL-V4](https://github.com/akrem-dev-ops/ELITE-NETWORK-PENETRATION-TOOL-V4)
-> Professional multi-threaded port scanner and vulnerability assessment tool
-
-- Built in **Python** with multi-threading for high-speed scanning
-- Covers port scanning, service detection, and basic vulnerability checks
-- Designed for legitimate security testing and network reconnaissance
+`Scapy` `Geolocation` `Live Sniffing` `Dashboard` `Python`
 
 ---
 
-### ⚡ [Brain Battle](https://github.com/akrem-dev-ops/brain-battle)
-> **A high-stakes trivia game vs. AI — Built with zero dependencies**
+### 🔴 [CRACKVAULT SUITE](https://github.com/akrem-dev-ops/CrackVault-Suite)
+> *High-performance async multi-core password recovery engine*
 
-- **Live Demo:** [Play Brain Battle here](https://akrem-dev-ops.github.io/brain-battle/)
-- Real-time sound synthesis using **Web Audio API** (no audio files)
-- Dynamic AI opponent with variable accuracy logic
-- Clean, high-performance UI built with pure **Vanilla JS**
+Supports `.rar` archives and Microsoft Office documents (`.xlsx`, `.xls`, `.docx`, `.doc`). Features real-time telemetry, session checkpointing, and a dual-theme Tkinter UI.
 
----
-
-### 🐍 [smart-snake](https://github.com/akrem-dev-ops/smart-snake)
-> Classic snake game — but it plays itself using AI pathfinding
-
-- Implemented **flood-fill algorithm** for autonomous navigation
-- Pure vanilla **HTML/CSS/JS** — zero dependencies
-- A demonstration of applying simple AI logic to classic games
+`multiprocessing` `RAR / Office` `Checkpointing` `Tkinter` `Python`
 
 ---
 
-## 📈 GitHub Stats
+## `// SECONDARY OPS`
+
+| Project | Description |
+|---|---|
+| **Brain Battle** | Trivia game engine with multiple modes and adaptive AI difficulty levels |
+| **Smart Snake** | AI pathfinding snake game — deployed live on GitHub Pages |
+| **Interactive CV** | Web-based CV with QR code business card and downloadable PDF |
+
+---
+
+## `// TECH STACK`
+
+**Languages & Core**
+`Python 3` `Bash` `HTML/CSS` `JavaScript` `SQL`
+
+**Security & Tools**
+`Tor / Proxy` `Scapy` `OSINT` `Wireshark` `HackerOne`
+
+**Python Ecosystem**
+`Tkinter` `multiprocessing` `msoffcrypto-tool` `rarfile` `requests`
+
+**Platforms**
+`Windows` `WSL / Linux` `GitHub` `GitHub Pages` `Google Apps Script`
+
+---
+
+## `// STATS`
 
 <div align="center">
 
-![Akrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akrem-dev-ops&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akrem-dev-ops&show_icons=true&theme=chartreuse-dark&bg_color=0d120d&border_color=1a3d1a&icon_color=c8a020&title_color=00ff50&text_color=8aaa84)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akrem-dev-ops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akrem-dev-ops&layout=compact&theme=chartreuse-dark&bg_color=0d120d&border_color=1a3d1a&title_color=00ff50&text_color=8aaa84)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## `// CONTACT`
 
-- 🔐 Deepening knowledge in **penetration testing** and **IDOR vulnerabilities**
-- 🕵️ Building advanced **OSINT tooling** for digital footprint analysis
-- 🤖 Exploring **AI-assisted automation** and agentic systems
-- 🐞 Participating in **bug bounty** programs (HackerOne)
-- 🛠️ Building tools that blend **security + automation**
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akrem_Chikhaoui-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akrem-chikhaoui)
-[![GitHub](https://img.shields.io/badge/GitHub-akrem--dev--ops-181717?style=flat-square&logo=github)](https://github.com/akrem-dev-ops)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Bug_Bounty-494649?style=flat-square&logo=hackerone)](https://hackerone.com)
-
-</div>
+- 🔗 **LinkedIn:** [linkedin.com/in/akrem-chikhaoui](https://linkedin.com/in/akrem-chikhaoui)
+- 🐙 **GitHub:** [github.com/akrem-dev-ops](https://github.com/akrem-dev-ops)
+- 📍 **Location:** Abu Dhabi, UAE
 
 ---
 
 <div align="center">
 
 ```
-[ Always learning. Always building. ]
+// ALL TOOLS BUILT FOR AUTHORIZED USE ONLY — 2026
+akrem-dev-ops_
 ```
-
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
 
 </div>
